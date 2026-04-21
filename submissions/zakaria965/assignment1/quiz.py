@@ -1,5 +1,3 @@
-# zakaria965's Python Quiz Program
-# A simple quiz that tests basic Python knowledge
 
 # Greeting
 name = input("What is your name? ")
